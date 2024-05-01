@@ -2,6 +2,50 @@
 
 Scenario: Level Up Solutions is a dynamic technology company that offers innovative web solutions to its clients. As part of their software development process, they have decided to adopt containerization using Docker to streamline their web application deployment. Docker provides Level Up Solutions with a flexible and efficient way to package, distribute, and run their applications in isolated containers, ensuring consistency and portability across different environments.
 
+# Key Terms to remember:
+
+Docker: A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+
+Container: A standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
+
+Linux: A family of open-source unix-like operating systems based on the Linux kernel.
+
+Visual Studio Code: A source-code editor developed by Microsoft for Windows, Linux and macOS.
+
+EC2: Amazon Elastic Compute Cloud is a web service that provides secure, resizable compute capacity in the cloud.
+
+Ubuntu: A Linux distribution based on Debian and composed mostly of free and open-source software.
+
+Bash: A Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
+
+Apache: A software that is both a free and open-source. The software assist users with deploying their websites online.
+
+HTML: HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content.
+
+Port 80: Serves as the communication gateway for HTTP requests and responses between client computers and servers.
+
+Port 8080: Serves as the communication gateway for HTTPS requests and responses between client computers and servers.
+
+Docker Hub: Acontainer registry built for developers and open source contributors to find, use, and share their container images
+
+# Docker Commands:
+
+Docker Run: Used to create and start a Docker container based on a specified Docker Image.
+
+Docker Version: The version of Docker installed on your System.
+
+Docker Images: Lists the Docker images that are currently on your system.
+
+Docker PS: Used to list the current running Docker containers.
+
+Docker Pull: Downloads Docker images from the internet.
+
+Docker Push: A command that is used to push or share a local Docker image or a repository to a repository.
+
+Docker Start: Used to start any stopped container.
+
+Docker Login: Log in to any public or private repository for which you have credentials.
+
 # Foundational Tasks:
 
 1. Run a Docker Ubuntu container running detached and on port 80
